@@ -32,5 +32,9 @@ Installation
 ------------------------------------
 Clauer_440Project code runs with Python 3 requiring the standard Python dependencies pandas, os, numpy, math, seaborn, and matplotlib. 
 
+Currently, the dataset used to generate figures should be explicitly chosen in the code. 
+
+The .py files should be able to be run as is upon installation of repo.
+
 Citations:
 Tam, Oliver H et al. “Postmortem Cortex Samples Identify Distinct Molecular Subtypes of ALS: Retrotransposon Activation, Oxidative Stress, and Activated Glia.” Cell reports vol. 29,5 (2019): 1164-1177.e5. doi:10.1016/j.celrep.2019.09.066
